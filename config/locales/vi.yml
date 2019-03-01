@@ -1,0 +1,16 @@
+vi:
+  static_pages:
+    help:
+      help_me: "Đây là trang hỗ trợ khách hàng"
+      help: "Trợ giúp"
+    home:
+      home: "TopMen"
+      featured products: "Sản phẩm nổi bật"
+  home: "Trang chủ "
+  help: "Trợ giúp"
+  english: "Tiếng Anh"
+  vietnamese: "Tiếng Việt"
+  by: "by"
+  login: "Đăng nhập"
+  sign_up: "Đăng ký"
+  TopMen: "TopMen"
