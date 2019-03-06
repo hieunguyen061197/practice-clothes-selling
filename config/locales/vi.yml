@@ -6,6 +6,15 @@ vi:
     home:
       home: "TopMen"
       featured products: "Sản phẩm nổi bật"
+    sp1:
+      sp1: "Sản phẩm 01"
+    sp2:
+      sp2: "Sản phẩm 02"
+    sp3:
+      sp3: "Sản phẩm 03"
+    sp4:
+      sp4: "Sản phẩm 04"
+
   home: "Trang chủ "
   help: "Trợ giúp"
   english: "Tiếng Anh"
@@ -14,3 +23,10 @@ vi:
   login: "Đăng nhập"
   sign_up: "Đăng ký"
   TopMen: "TopMen"
+  ok: "ok"
+  error: "lỗi"
+  name: "tên"
+  email: "email"
+  pass: "mật khẩu"
+  confirmation: "xác nhận mật khẩu"
+  create: "tạo tài khoản"

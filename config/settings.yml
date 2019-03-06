@@ -1,2 +1,10 @@
 phone_number: "0123456789"
 gmail: "hieunguyen0611977@gmail.com"
+max_length_email : 250
+max_length_name : 50
+min_length_pass : 6
+user helper :
+size : 80
+number : 5
+size_gra: 80
+size_image: 50

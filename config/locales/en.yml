@@ -6,6 +6,15 @@ en:
     home:
       home: "TopMen"
       featured products: "featured products"
+    sp1:
+      sp1: "Product 01"
+    sp2:
+      sp2: "Product 02"
+    sp3:
+      sp3: "Product 03"
+    sp4:
+      sp4: "Product 04"
+
   Home: "Home"
   help: "help"
   english: "english"
@@ -14,4 +23,11 @@ en:
   login: "login"
   sign_up: "sign up"
   TopMen: "TopMen"
+  ok: "ok"
+  error: "error"
+  name: "name"
+  email: "email"
+  pass: "password"
+  confirmation: "confirmation"
+  create: "create my account"
  

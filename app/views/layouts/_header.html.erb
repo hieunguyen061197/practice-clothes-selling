@@ -7,8 +7,10 @@
       <li><%= link_to t("home"), root_path %></li>
           <li><%= link_to t("help"), help_path %></li>
           <li><%= link_to t("login"), '#', class:'fa fa-user' %></li>
-          <li><%= link_to t("sign_up"), '#', class:"fa fa-lock" %></li>
-          <input type="text" name="search" placeholder="Search..">
+          <li><%= link_to t("sign_up"), signup_path, class:"fa fa-lock" %></li>
+          <a>
+          <input type="text" ="search" placeholder="Search..">
+          </a>
         <li><%= link_to t("english"), locale:"en" %></li>
         <li><%= link_to t("vietnamese"), locale:"vi" %></li>
 

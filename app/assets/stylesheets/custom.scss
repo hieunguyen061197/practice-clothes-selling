@@ -66,9 +66,10 @@ p {
   float: left;
   margin-right: 10px;
   padding-top: 6px;
-}
 
-input[type="text"] {
+}
+a {
+  input[type="text"] {
   width: 130px;
   box-sizing: border-box;
   border: 1px solid white;
@@ -76,12 +77,12 @@ input[type="text"] {
   outline:none;
   padding: 12px 14px;
   transition:0.6s ease-in-out;
-}
+  }
 
-input[type="text"]:focus{
+  input[type="text"]:focus{
   width:500px; 
+  }
 }
-
 #shopcart {
   width:100px;
   margin:auto;
